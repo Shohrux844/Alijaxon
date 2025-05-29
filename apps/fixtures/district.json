@@ -1,0 +1,122 @@
+[
+  {
+    "model": "apps.District",
+    "pk": 1,
+    "fields": {
+      "name": "Bektemir tumani",
+      "region": 1
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 2,
+    "fields": {
+      "name": "Mirzo Ulug'bek tumani",
+      "region": 1
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 3,
+    "fields": {
+      "name": "Sergeli tumani",
+      "region": 1
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 4,
+    "fields": {
+      "name": "Chilonzor tumani",
+      "region": 1
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 5,
+    "fields": {
+      "name": "Shayxontohur tumani",
+      "region": 1
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 6,
+    "fields": {
+      "name": "Uchtepa tumani",
+      "region": 1
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 7,
+    "fields": {
+      "name": "Yunusobod tumani",
+      "region": 1
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 8,
+    "fields": {
+      "name": "Yakkasaroy tumani",
+      "region": 1
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 9,
+    "fields": {
+      "name": "Olmazor tumani",
+      "region": 1
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 10,
+    "fields": {
+      "name": "Andijon tumani",
+      "region": 2
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 11,
+    "fields": {
+      "name": "Asaka tumani",
+      "region": 2
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 12,
+    "fields": {
+      "name": "Baliqchi tumani",
+      "region": 2
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 13,
+    "fields": {
+      "name": "Buxoro tumani",
+      "region": 3
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 14,
+    "fields": {
+      "name": "G'ijduvon tumani",
+      "region": 3
+    }
+  },
+  {
+    "model": "apps.District",
+    "pk": 15,
+    "fields": {
+      "name": "Shofirkon tumani",
+      "region": 3
+    }
+  }
+]

@@ -1,0 +1,8 @@
+.venv
+.idea
+apps/migrations/*
+db.sqlite3
+Makefile
+static/
+media/
+.env/
